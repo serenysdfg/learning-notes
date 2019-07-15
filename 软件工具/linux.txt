@@ -1,0 +1,44 @@
+﻿mstsc.exe
+终端CTRL+ALT+T
+
+mkdir  a（a是目录，创建一个文件目录）
+wq保存
+cat：查看一个文件内容
+touch：建立一个空目录
+apt-get install mys(tab)：安装文件，tab选择具体名字
+
+localte  abc（abc是文件名字）
+locate update：（先update可以弄好最近修改的）
+cd
+ls列出全部目录
+ls-l：列出所有文件，以及权限（root权限，用户权限，某个文件夹权限）
+chmod +x haha：增加权限
+chmod 777 haha（给予所有权限，不推荐使用）
+
+vim test:建立新的文件
+rm -rf  abc  ：删除
+
+top -u:查看所有正在运行的进程
+ctrl+alt+f2,f7回去,命令行
+
+
+
+最重要的15个linux命令
+1.cd跳转到某个目录
+2.man显示命令的信息
+3.ls显示当前路径下可用的目录
+4.cp拷贝文件
+5.mv移动文件或者目录
+6.mkdir创建目录（目录名区分大小写）
+7.rmdir移除目录
+8.touch创建文件
+9.rm移除文件或者目录
+10.tar存档文件或者目录（压缩/解压）
+11.pwd当前工作目录（Path Working Directory）
+12.ifconfig显示网络适配器的相关信息
+13.locate快速搜索命令
+14.ping作为专业人士的网络诊断命令
+15.chmod权限设置命令
+
+看见帅哥，学习的动力就来了，，
+为了爸妈，加油， ，我真的想要一个男朋友，怎么办，我觉得自己挺孤单的，，你看看大一大二这么努力，，有男生在身边有动力，对吧。
